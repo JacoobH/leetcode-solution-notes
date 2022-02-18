@@ -43,4 +43,4 @@ leetcode的刷题笔记，
 
 | 题目                                                         | 题解                                                         | 难度 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| [1226. 哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers/) | [LeetCode 题解链接](题解/贪心算法/1405.%20最长快乐字符串.md) | 中等 |
+| [1226. 哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers/) | [LeetCode 题解链接](题解/多线程/1405.%20最长快乐字符串.md) | 中等 |
