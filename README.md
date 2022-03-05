@@ -47,3 +47,7 @@ leetcode的刷题笔记，
 | [1226. 哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers/) | [LeetCode 题解链接](题解/多线程/哲学家进餐.md) | 中等 |
 
 ### 动态鬼话
+
+| 题目                                                         | 题解                                                         | 难度 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [5. 最长回文子串](https://leetcode-cn.com/problems/the-dining-philosophers/) | [LeetCode 题解链接](题解/多线程/哲学家进餐.md) | 中等 
