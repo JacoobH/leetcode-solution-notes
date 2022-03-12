@@ -18,6 +18,7 @@ leetcode的刷题笔记，
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [LeetCode 题解链接](题解/二叉树/108.%20将有序数组转换为二叉搜索树.md) | 简单 |
 | [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [LeetCode 题解链接](题解/二叉树/109.%20有序链表转换二叉搜索树.md) | 中等 |
+| [1448. 统计二叉树中好节点的数目](https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree/ | [LeetCode 题解链接](题解/二叉树/1448.%20统计二叉树中好节点的数目.md) | 中等 |
 
 ### 前缀和
 
